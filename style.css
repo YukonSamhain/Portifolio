@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.banner {
+    background:brown
+}
+
+#text {
+    color:green;
+    font-size: 40px;
+    
+}
+
+section {
+    background-color: indigo;
+}
+
+.icons{
+    color: white;
+}
+
+.addict{
+    background-color: brown;
+}
